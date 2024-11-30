@@ -1,0 +1,75 @@
+h1 {
+    color: #8E26C0;
+    text-align: center;
+    font-size: 64px;
+    font-family: JetBrains Mono;
+}
+#amazing {
+    color: #F00;
+    font-size: 32px;
+    font-style: normal;
+    background-color: #FFE8E8;
+    font-weight: 400;
+    width: 565px;
+    padding: 24px 40px;
+    line-height: normal;
+    width: 565px;
+    align-items: center;
+    
+}
+#products {
+    color: #85647B;
+    text-align: center;
+    width: 943px;
+    height: 96;
+    padding: 24px 40px;
+    font-size: 40px;
+    align-items: center;
+    line-height: normal;
+    font-weight: 400;
+    border-style: solid;
+    border-bottom: solid #7f56d9;
+    border-left: 4px solid #C11574;
+    border-right:  6px solid #05F;
+    border-top: solid #00C76E;
+}
+#items {
+    color: #414651;;
+    text-align: center;
+    font-size: 40px;
+    background-color: #FFE8E8;
+    width: 1023px;
+    padding: 24px 40px;
+    align-items: center;
+    width: 943px;
+    height: 85;
+    
+   
+}
+span{
+    color: #FF4405;
+    width: 40px;
+    height: 58px;
+    text-decoration-line: underline;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration-style: solid;
+}
+#Hurry {
+    color: #0064CE;
+    text-align: center;
+    text-align: right;
+    font-size: 32px;  
+    padding: 24px 40px;
+    border: 2px solid #3538CD;
+    width: 1069px;
+    font-style: normal;
+    line-height: normal;
+    width: 989;
+    height: 38;
+}
+#img {
+    width: 556px;
+    height: 347px;
+}
